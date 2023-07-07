@@ -1,4 +1,4 @@
-# CS155 ProblemSet 2
+# CS155 Problem Set 2
 # EASY Language Token Analyzer
 
 

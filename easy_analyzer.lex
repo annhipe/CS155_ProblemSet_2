@@ -70,8 +70,7 @@ void ret_print(char *token_type){
 
 void yyerror(char *message){
     printf("########## TOKEN NOT RECOGNIZED \"%s\" ##########\n", yytext);
-    // printf("Error: \"%s\" in line %d. Token = %s\n", message, lineno, yytext);
-    // exit(1);
+
 }
 
 

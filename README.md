@@ -4,7 +4,7 @@
 
 ### CS 155 AY 2022-2023 2nd Semester
 
-Author: Ann Hipe
+Submitted by: Ann Hipe
 
 Student Number: 2019-00269
 
